@@ -1,0 +1,13 @@
+{
+    "token": "YOUR_TOKEN",
+    "prefix": "!",
+    "logo":  "",
+    "hex_color": "#0099ff", 
+    "community_name": "YOUR_SERVER_NAME", 
+    "role_access_id": "STAFF_ROLE_ID",
+
+    "database_host": "localhost",
+    "database_user": "root",
+    "database_password": "",
+    "database_base": "DATABASE_NAME"
+}
