@@ -6,7 +6,7 @@ QBCore Version: https://github.com/mat0ta/tota_permid-QBCORE
 ## Thanks for dowloading it!
 
 ##Notes
-- The BOT is in a .rar file. Unzip it and start it. It is Plug and Play (NODE.js Required)
+- The BOT is in the Github file. Just start it. It is Plug and Play (NODE.js Required)
 
 ## Support and more free scripts in: https://discord.gg/9tspPPHEfM
 
