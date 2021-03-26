@@ -1,13 +1,3 @@
-ESX = nil
-local PlayerData= {}
-Citizen.CreateThread(function ()
-    while ESX == nil do
-        TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
-        Citizen.Wait(0)
-    end
-    PlayerData = ESX.GetPlayerData()
-end)
-
 AddEventHandler('onClientMapStart', function()
     TriggerServerEvent('tota:server:displayid', source)
     TriggerServerEvent('tota:server:displaydiscord', source)
